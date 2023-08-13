@@ -12,12 +12,13 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### Contribution
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ### Dev Meme 😂 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
