@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Lakhani</h1>
-<h3 align="center">Software Engineer focused on AI/ML systems and scalable backend development. Skilled in RESTful APIs, CI/CD automation, and containerization with Docker and Kubernetes. Experienced in deploying ML models on AWS and GCP, with expertise in data pipelines, model fine-tuning, distributed training, and LLM integration—committed to performance, security, and seamless user experiences.</h3>
+<h3 align="center">Software Engineer focused on AI/ML systems and scalable backend development.</h3>
 
 - 👨‍💻 All of my projects are available at [https://viveklakhani.in/](https://viveklakhani.in/)
 
